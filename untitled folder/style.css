@@ -1,0 +1,15 @@
+h1{
+    font-family: Verdana, arial;
+}
+p{
+    font-family: "lucida console", "courier new";
+    font-size: 16px;
+    font-weight: bold;
+    font-style: italic;
+}
+header{
+    background-color: rgba(48, 48, 48, 0.366);
+}
+footer{
+    background-color: rgba(48, 48, 48, 0.366);
+}
